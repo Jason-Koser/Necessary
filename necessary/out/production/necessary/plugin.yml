@@ -1,0 +1,10 @@
+name: necessary
+main: me.jason.necessary.Necessary
+version: 1.1.0
+commands:
+  smite:
+    aliases:
+      -smite
+  awesome:
+    aliases:
+      - awesome
